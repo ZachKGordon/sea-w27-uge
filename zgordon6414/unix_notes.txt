@@ -1,0 +1,5 @@
+mkdir makes dirs
+cd changes dirs
+ls shows the list of files and dirs
+~ (tilda) is the home commade
+| (pipe) takes the output and uses it as an input.
