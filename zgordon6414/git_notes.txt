@@ -1,0 +1,5 @@
+git flow.
+  touch <file>
+  git add file
+  git status
+  git commit -m
